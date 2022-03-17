@@ -1,18 +1,16 @@
-## In-situ Excel (Data) File Reading Routines
+## Backup of Satellite Data Analysis Routines
 --- 
-Routines to read in-situ observation data in Excel files.    
-The files have no standard format.   
-This code tries to parse the Excel rows into a more organised data structure. 
+Analysis of in-situ to satellite data match-ups.    
+
 
 #### Prerequisites
 ##### Required Modules
-Libraries used to parse .xls and .xlsx and extra optional 
+Libraries used
 
   - numpy
-  - openpyxl
+  - scipy
   - pandas
-  - xlrd
-  - termcolor (optional)
+  - matplotlib
 
 
 ## Authors
