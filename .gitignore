@@ -1,0 +1,15 @@
+# ignore folders
+.git
+.idea
+.ipynb_checkpoints
+__pycache__
+Data
+Figures
+logs
+
+# ingone data files
+*.csv
+*.pptx
+*.txt
+*.xls
+debugger.py
